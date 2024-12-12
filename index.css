@@ -1156,7 +1156,7 @@ button:focus:before {
 /* Personal Trainer page */
 
 .train-banner {
-    background-image: url(./images/weight-banner.jpg);
+    background-image: url(./images/personal.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 70vh;
@@ -2993,7 +2993,7 @@ home section-5  */
 
     /* training page */
     .train-banner {
-        background-image: url(./images/personal.jpg);
+        background-image: url(./images/weight-banner.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         min-height: 50vh;
