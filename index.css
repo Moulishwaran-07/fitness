@@ -2452,7 +2452,7 @@ home section-5  */
 
     /* personal trainer page */
     .train-banner {
-        background-image: url(./images/personal.jpg);
+        background-image: url(./images/weight-banner.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         min-height: 50vh;
